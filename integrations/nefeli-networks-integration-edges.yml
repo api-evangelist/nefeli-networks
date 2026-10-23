@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/nefeli-networks/integrations
+- https://n8n.io/integrations/nefeli-networks/
+- https://composio.dev/toolkits/nefeli-networks
+- https://monid.ai/tools/nefeli-networks
+checked:
+- https://composio.dev/toolkits/nefeli-networks
+- https://monid.ai/tools/nefeli-networks
+- https://n8n.io/integrations/nefeli-networks/
+- https://zapier.com/apps/nefeli-networks/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
